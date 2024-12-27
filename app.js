@@ -82,7 +82,7 @@ function submitForm(event) {
     event.preventDefault();
 
     alert(
-        "This feature is currently unavailable,please send an email to bakareoafolabi@gmail.com"
+        "This feature is currently unavailable,please send an email to varunhotani@gmail.com"
     );
 
     document.getElementById("form").reset();
